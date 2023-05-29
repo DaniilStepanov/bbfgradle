@@ -74,7 +74,7 @@ dependencies {
     implementation group: 'com.squareup.okhttp3', name: 'okhttp', version: '4.9.1'
 
     //Decompiler
-    implementation 'com.github.fesh0r:fernflower:master-SNAPSHOT'
+    //implementation 'com.github.fesh0r:fernflower:master-SNAPSHOT'
 
     //Antlr4
     implementation group: 'org.antlr', name: 'antlr4-runtime', version: '4.8-1'
